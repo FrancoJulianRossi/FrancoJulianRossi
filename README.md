@@ -1,74 +1,74 @@
-# 👋 ¡Hola! Soy Franco
+# 👋 **¡Hola! Soy Franco**
 
 Busco mi primera oportunidad profesional para aplicar mis conocimientos y seguir creciendo.
 Soy desarrollador en formación, con una base sólida en programación, buena adaptación al aprendizaje continuo y experiencia construyendo proyectos personales.
 
-## 🛠️ Tecnologías
-### Lenguajes
+## 🛠️ ***Tecnologías***
+* ### **Lenguajes**
 
-Python
+  * Python
 
-C++
+  * C++
 
-Java
+  * Java
 
-JavaScript
+  * JavaScript
 
-TypeScript
+  * TypeScript
 
-Pascal
+  * Pascal
 
-Frontend
+* ### **Frontend**
 
-HTML
+  * HTML
 
-CSS
+  * CSS
 
-React (básico)
+  * React (básico)
 
-### Backend y herramientas
+* ### **Backend y herramientas**
 
-Node.js
+  * Node.js
 
-Git
+  * Git
 
-GitHub
+  * GitHub
 
-Bases de datos (conceptos generales)
+  * Bases de datos (conceptos generales)
 
-APIs y servidores (nociones fundamentales)
+  * APIs y servidores (nociones fundamentales)
 
-## ⭐ Enfoques principales
-### Web / Fullstack
+## ⭐ ***Enfoques principales***
+* ### **Web / Fullstack**
 
-JavaScript
+  * JavaScript
 
-TypeScript
+  * TypeScript
 
-HTML + CSS
+  * HTML + CSS
 
-React
+  * React
 
-Git + GitHub
+  * Git + GitHub
 
-### Backend / Software General
+* ### **Backend / Software General**
 
-Python
+  * Python
 
-Java
+  * Java
 
-Conceptos de bases de datos
+  * Conceptos de bases de datos
 
-Desarrollo de APIs / servidores
+  * Desarrollo de APIs / servidores
 
-Extras que también manejo
+* ### **Extras que también manejo**
 
-C++
+  * C++
 
-Pascal
+  * Pascal
 
 
-## 📫 Contacto
+## 📫 ***Contacto***
 
 Email: rossi.francoj@gmail.com
 
