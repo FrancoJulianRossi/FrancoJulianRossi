@@ -70,5 +70,7 @@ Soy desarrollador en formación, con una base sólida en programación, buena ad
 
 ## 📫 ***Contacto***
 
-Email: rossi.francoj@gmail.com
+* Email: rossi.francoj@gmail.com
+
+* LinkedIn: https://www.linkedin.com/in/franco-julian-rossi-0853403a4/
 
