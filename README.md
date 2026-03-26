@@ -1,7 +1,7 @@
 # 👋 **¡Hola! Soy Franco**
 
 Busco mi primera oportunidad profesional para aplicar mis conocimientos y seguir creciendo.
-Soy desarrollador en formación, con una base sólida en programación, buena adaptación al aprendizaje continuo y experiencia construyendo proyectos personales.
+Soy desarrollador, con una base sólida en programación, buena adaptación al aprendizaje continuo y experiencia construyendo proyectos personales.
 
 ## 🛠️ ***Tecnologías***
 * ### **Lenguajes**
